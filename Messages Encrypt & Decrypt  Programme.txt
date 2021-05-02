@@ -1,0 +1,12 @@
+- This is a python programme which convert letters in to hidden characters.
+- We can use it as Encrypt or Decrypt a messages.
+
+- In here we use :
+	       1. String functions
+	       2. Loops
+	       3. If statments
+	       4. Inputs
+	       5. Sets
+                        6. Functions
+
+Thank you !.....
